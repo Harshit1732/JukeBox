@@ -10,7 +10,13 @@
    3. User-Friendly Interface: Enjoy an intuitive and easy-to-use interface designed for smooth navigation and seamless music playback.
    4. Customization Options: Customize your listening experience with options for shuffling, repeating, and sorting playlists and tracks.
    6. Cross-Platform Compatibility: Access your music library and playlists from any device, including desktops, laptops, tablets, and smartphones.
- 
+
+ # Object Modeling
+  The Jukebox Application utilizes object-oriented programming principles to model various components of the music playback system. Here's an overview of the key objects and their interactions:
+
+  1. Song: Represents a single audio track with properties such as title, artist, album, duration, and file path.
+  2. Playlist: Represents a collection of songs grouped together based on user preferences or themes.
+  3. Jukebox: Acts as the main controller for managing playlists, controlling playback, and interacting with the user interface.
   
 
   
