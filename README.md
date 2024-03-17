@@ -27,6 +27,9 @@
   5. Identify Interactions between the entities (Class Relationships).
   6. Implement all the required layers embracing the clean architecture style.
   7. Implement all the required layers step by step in a Test-driven development style to ensure correctness and better code coverage.
+ Skills Used:
+   Java, Object Oriented Design, Design Patterns, Test Driven Development, Unit Testing
+ 
   
 
   
