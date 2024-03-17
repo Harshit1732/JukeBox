@@ -17,6 +17,9 @@
   1. Song: Represents a single audio track with properties such as title, artist, album, duration, and file path.
   2. Playlist: Represents a collection of songs grouped together based on user preferences or themes.
   3. Jukebox: Acts as the main controller for managing playlists, controlling playback, and interacting with the user interface.
+
+# Implement JukeBox from Scratch
+   # Scope of Work
   
 
   
