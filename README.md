@@ -19,7 +19,14 @@
   3. Jukebox: Acts as the main controller for managing playlists, controlling playback, and interacting with the user interface.
 
 # Implement JukeBox from Scratch
-   # Scope of Work
+   Scope of Work
+  1. Clearly understand the Problem Statement Requirements.
+  2. Identify the Primary Use Cases / Behaviour of the system.
+  3. Identify the Key Objects / Entities from the listed use cases.
+  4. Identify the behaviours / supported operations for Identified objects.
+  5. Identify Interactions between the entities (Class Relationships).
+  6. Implement all the required layers embracing the clean architecture style.
+  7. Implement all the required layers step by step in a Test-driven development style to ensure correctness and better code coverage.
   
 
   
